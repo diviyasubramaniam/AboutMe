@@ -116,4 +116,7 @@ Oct 2000 - April 2004
    
     University of Madras
     Chennai, TamilNadu, India
-    
+
+Sep 2020- Oct 2020
+Coding Bootcamp
+**Coding Dojo**
