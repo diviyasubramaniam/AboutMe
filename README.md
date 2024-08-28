@@ -69,8 +69,7 @@ Education
    --University of Madras 
    Chennai, TN , INDIA
 
-Achievements 
+Honors & Awards 
 ------
-   <span style="color:#fff; font-family: 'Bebas Neue'; font-size: 4em;">INSPIRATION DAY</span>
-   **GoldCompass Award winner for Best employee Q4 - 2024**
-      - Costco Award for employees 
+   **Golden Compass (FY24Q3)**
+      - The Golden compass is a recogonition program for Costco employees designed to reward those who have gone above and beyond the expectations for their position. 
