@@ -26,8 +26,8 @@ May 2021 - Oct 2021
 *Bellevue, WA, USA*
 
     - Implemented automated monitoring and alerting systems as part of the DevOps practices, reducing incident response time by 50% and aligning with the organization's business objectives.
-    - Developed and executed a rigorous analysis of existing security measures, leading to the enhancement of product testing strategies and implementation of advanced security protocols; resulted in a 15% 
-reduction in security vulnerabilities and improved user trust.
+    - Developed and executed a rigorous analysis of existing security measures, leading to the enhancement of product testing strategies that resulted in a 15% reduction in security vulnerabilities and 
+    improved user trust.
     - Spearheaded customer engagement initiatives increasing customer satisfaction by 25% and reducing customer support tickets by 30% through improved product quality and support.
     
 Jan 2012 - April 2020
@@ -61,14 +61,12 @@ Skills
 Education
 ------
    **Coding Bootcamp - DataScience**
-   CodingDojo
+   --CodingDojo
    Bellevue, WA, USA
    
    **Bachelor of Electrical Engineering**
-   University of Madras 
+   --University of Madras 
    Chennai, TN , INDIA
-    
-   
 
 Achievements 
 ------
