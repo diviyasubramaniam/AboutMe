@@ -8,23 +8,18 @@ Diviya Subramaniam
 
 Professional Summary 
 ---------
-Seasoned professional with 15 years of experience in Software testing, managing and leading QA teams. Well-versed in designing, documenting and executing test cases, as well as covering all test conditions, uncovering defects at early stage and saving significant costs. Implemented several process improvements and significantly improved test coverage.
+Seasoned professional with 18 years of experience in Software testing, managing and leading QA teams. Well-versed in designing, documenting and executing test cases, as well as covering all test conditions, uncovering defects at early stage and saving significant costs. Implemented several process improvements and significantly improved test coverage.
 
 Work Experience
 ---------------
 
-Jan 2012 - April 2020
-:   **Wimmer Solutions -  Software Test Consultant for Microsoft**
-*Seattle ,WA, USA*
+Nov 2021 - Aug 2024
+:   **CostcoTravel -  QA Lead**
+*Issaquah ,WA, USA*
 
-    - Developing effective test code for functional and regression testing.
-    - Analyzing and evaluating suitable test cases for the requirements submitted by business in TFS.
-    - Investigate and fixing bugs comparing the behavior against requirements specification.
-    - Analyzing source code to understand test accessibility challenges and derive solution.
-    - Assisting with issue investigation including reproducing issues to filter bug reports.
-    - Building Subject matter expertise on LOBs and using it to drive overall product quality.
-    - Driving test preparedness including creating and maintaining test accounts and setting up Test environment.
-    - Running UAT testing and walkthroughs for assisting sign-off from stakeholders.
+    - Spearheaded the launching of new GDS integration with Travel booking engine and engaged in User acceptance testing with business resulting in a 35% increase in testing efficiency.
+    - Managed cross-functional teams to drive customer-centric initiatives, leading to a 15% improvement in customer retention and a 10% increase in customer lifetime value.
+    - Ieveloped and executed a project plan that optimized resource allocation,leading to a 25% increase in productivity and a 10% reduction in project overhead costs.
 
 Mar 2009 - April 2011
 :   **Hewlett Packard Pvt LTD - Svc Info Developer II**
