@@ -36,7 +36,7 @@ Jan 2012 - April 2020
     
     - Managed a portfolio of 10 projects simultaneously, overseeing budgets,timelines, and resource allocation. Managed and optimized a complex program management framework to drive efficiency and alignment across teams, resulting in a 15% increase in overall productivity and a 20% reduction in project delivery time.
     - Managed stakeholder communication and alignment throughout the implementation leading to a 25% reduction in customer response time.
-    - Reported summarized status and progress reports to stakeholders.
+    - Reported summarized status of testing and progress reports to stakeholders.
     - Evaluated version health analytics for top issue contributors (incidents per agent percentage) using telemetry data thereby assisting with project prioritization and reducing incident SLAs by 10%.
     
  Mar 2010 - April 2011
