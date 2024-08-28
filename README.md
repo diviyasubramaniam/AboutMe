@@ -111,14 +111,12 @@ Skills
 
 Education
 ------
-Oct 2000 - April 2004
-:    **B.E in Electrical and Electronics**
+   **B.E in Electrical and Electronics**
    
     University of Madras
     Chennai, TamilNadu, India
 
-Sep 2020 - Oct 2020
-:    **Coding Bootcamp - DataScience**
+   **Coding Bootcamp - DataScience**
    
     CodingDojo 
     Bellevue, WA , USA
