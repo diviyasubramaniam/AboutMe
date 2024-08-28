@@ -13,105 +13,66 @@ Seasoned professional with 18 years of experience in Software testing, managing 
 Work Experience
 ---------------
 
-Nov 2021 - Aug 2024
+Nov 2021 - Current
 :   **CostcoTravel -  QA Lead**
 *Issaquah ,WA, USA*
 
     - Spearheaded the launching of new GDS integration with Travel booking engine and engaged in User acceptance testing with business resulting in a 35% increase in testing efficiency.
     - Managed cross-functional teams to drive customer-centric initiatives, leading to a 15% improvement in customer retention and a 10% increase in customer lifetime value.
-    - Ieveloped and executed a project plan that optimized resource allocation,leading to a 25% increase in productivity and a 10% reduction in project overhead costs.
+    - Developed and executed a project plan that optimized resource allocation,leading to a 25% increase in productivity and a 10% reduction in project overhead costs.
 
-Mar 2009 - April 2011
-:   **Hewlett Packard Pvt LTD - Svc Info Developer II**
-*Shanghai, China, PRC*
+May 2021 - Oct 2021
+:   **Cognizant Consultant for Farmer's Insurance**
+*Bellevue, WA, USA*
 
-    - Act as a Liaison between Development Team and on-site Project management team.
-    - Involved in Planning & Design meeting along with Dev and Project Management Team for 
-    analyzing and understanding upcoming projects.
-    - Prepare Test Plan and Test Strategy documents.
-    - Prepare estimates on man-hours and infrastructure required for successful execution of lifecycle. 
-    - Work allocation to the team and analyzing Test coverage, monitor progress and update status 
-    weekly to Higher management.
-    - Run manually and automate the above test cases using QTP via VB and Java add-ins.
-    - Execute SQL scripts for loading and extracting data as and when necessary.
-    - Responsible for maintaining Quality Center with necessary test cases and results for 
-    each phase of test cycle.
-    - Write BPT (Business Process Testing) Components for both manual and automation.
-    - Write SQL queries to extract data from various source tables to perform database testing.
+    - Implemented automated monitoring and alerting systems as part of the DevOps practices, reducing incident response time by 50% and aligning with the organization's business objectives.
+    - Developed and executed a rigorous analysis of existing security measures, leading to the enhancement of product testing strategies and implementation of advanced security protocols; resulted in a 15% 
+reduction in security vulnerabilities and improved user trust.
+    - Spearheaded customer engagement initiatives increasing customer satisfaction by 25% and reducing customer support tickets by 30% through improved product quality and support.
     
-Jun 2007 - Oct 2008
-:   **Oracle Corporation - Member Technical Staff**
-*Hyderabad, Telengana, India*
+Jan 2012 - April 2020
+:   **Wimmer Solutions IT consultant for Microsoft**
+*Redmond, WA, USA*
     
-    - Involved in preparing Functional & Design Spec based on Project Requirement Analysis
-    - Developing Functional Test cases and uploading to Quality center
-    - Automating these tests using selenium RC and Java
-    - Verified soap call response in xml formatted data, worked with added test cases and 
-    Assertion Using SOAPUI NG PRO, 
-    - Review test-cases developed by counterparts
-    - Manually testing functionality and Filling bugs found in different components of the product,
-    assigning them to concerned developer, tracking them, run verification tests on receiving fix 
-    for filed bugs and signing off after verification
-    - Run regression tests once after every periodic cycle using automated scripts.
-    - Run MATS in DTE environment.
-    - Setting up WebLogic server and deploying application on WebLogic for testing
-    - Analyze deployment issues and coming up with workaround on identification of issue.
-
- Jan 2007 - Jun 2007
-:   **Applabs Technologies - Senior Software Engineer**
-*Hyderabad, Telengana, India*
-
-    - Preparing Test suites and act as a liaison to the customer & the Business for UAT
-    - Follow up with SMEs on Test Suite Verification & Validation
-    - Testing of Installer framework of application (Stellent Content management integration Suite) 
-    where installation scenarios include silent installation & command line installation.
-      
-May 2005 - Oct 2006
-:   **SAP BO - Senior Software Engineer**
-*Bangalore, Karnataka, India*
+    - Managed a portfolio of 10 projects simultaneously, overseeing budgets,timelines, and resource allocation. Managed and optimized a complex program management framework to drive efficiency and alignment across teams, resulting in a 15% increase in overall productivity and a 20% reduction in project delivery time.
+    - Managed stakeholder communication and alignment throughout the implementation leading to a 25% reduction in customer response time.
+    - Reported summarized status and progress reports to stakeholders.
+    - Evaluated version health analytics for top issue contributors (incidents per agent percentage) using telemetry data thereby assisting with project prioritization and reducing incident SLAs by 10%.
     
-    - Explore on Installation & configuration issues of BO setup on different environment. 
-    - Setting up of SSL environment on window and UNIX., Setting up of Clustered environment 
-      for Business Objects 6.x.
-    - Designing and implementation of test cases derived from underlying functional specification.
-    - Work as a liaison to Customers & the Developers for collecting Requirements from Customers 
-      and provide assistance to developers.
-    - Perform functional testing to check if Business Objects exhibits correct functionality when 
-      integrated with Baan and People Soft ERPs
+ Mar 2010 - April 2011
+:   **Hewlett-Packard - SVC Info Developer/Software Engineer**
+*Shanghai, PRC*
 
- June 2004 - May 2005
-:   **Flextronics - International - Software Analyst [SCM]**
-*Bangalore, Karnataka, India*
-
-   - Supported Materials team by periodically sourcing Suppliers including locating and developing 
-   new suppliers and significantly reducing cost by 12%. 
-   - Supported warehouse with materials handling by processing inventory and delivery of all orders.
-   Supported warehouse with materials handling by processing inventory and delivery of all orders.
-   - Assisted with consistent monitoring, measuring and improvement of Supply chain performance and 
-   Key Performance Indicators (KPIs). 
-   - Assisted in providing management with detailed inventory analysis reports. 
-   
+    - Automated and maintained tests in Java using selenium and GIT.
+    - Extensively involved in web services/API testing, including use of tools like SOAPUI
+    - Executed SQL scripts for loading and extracting data and using ETL tools built the test data.
+    - Reported defects and maintained test cases in Quality center.
+        
 Skills
 ------
-    - SDLC
-    - HTML and XML
+    - Python 
+    - Data Analysis
     - SQL
     - Software testing
-    - Selenium IDC and RC
-    - QTP, Win Runner and Load Runner
-    - Business Objects XI, XIR2, CR10, CR11, CR12,
-    - People Soft - Classic, OEM and JDEdwards
-    - Quality Center, Team foundation Server, Test Director
-    - Java
+    - Selenium, JMeter, SOAPUI, GIT, POSTMAN
+    - Azure DevOps 
+    - PowerBI Basics 
 
 Education
 ------
-   **B.E in Electrical and Electronics**
    
-    University of Madras
-    Chennai, TamilNadu, India
-
    **Coding Bootcamp - DataScience**
    
     CodingDojo 
     Bellevue, WA , USA
+    
+    **Bachelor of Electronics Engineering**
+   
+    University of Madras
+    Chennai, TamilNadu, India
+
+Achievements 
+------
+   
+   **GoldCompass Award winner for Best employee Q4 - 2024**
+      - Costco Award for employees 
