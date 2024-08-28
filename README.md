@@ -60,6 +60,7 @@ Skills
 
 Education
 ------
+
    **Coding Bootcamp - DataScience**
    --CodingDojo
    Bellevue, WA, USA
@@ -70,6 +71,6 @@ Education
 
 Achievements 
 ------
-   
+   <span style="color:#fff; font-family: 'Bebas Neue'; font-size: 4em;">INSPIRATION DAY</span>
    **GoldCompass Award winner for Best employee Q4 - 2024**
       - Costco Award for employees 
