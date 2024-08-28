@@ -60,16 +60,15 @@ Skills
 
 Education
 ------
-   
    **Coding Bootcamp - DataScience**
+   CodingDojo
+   Bellevue, WA, USA
    
-    CodingDojo 
-    Bellevue, WA , USA
+   **Bachelor of Electrical Engineering**
+   University of Madras 
+   Chennai, TN , INDIA
     
-    **Bachelor of Electronics Engineering**
    
-    University of Madras
-    Chennai, TamilNadu, India
 
 Achievements 
 ------
